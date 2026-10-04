@@ -14,8 +14,8 @@
 SecureVault combines a working calculator with a local file vault, passcode and biometric access, and inactivity locking.
 
 <p align="center">
-  <img src="../assets/securevault-2.webp" alt="SecureVault public product screenshot showing access from the calculator" width="38%">
-  <img src="../assets/securevault-3.webp" alt="SecureVault public product screenshot showing encrypted file storage" width="38%">
+  <img src="../assets/securevault-2.webp" alt="SecureVault public product screenshot showing access from the calculator" width="280">
+  <img src="../assets/securevault-3.webp" alt="SecureVault public product screenshot showing encrypted file storage" width="280">
 </p>
 
 ## The problem I had to solve

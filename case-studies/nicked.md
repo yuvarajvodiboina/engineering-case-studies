@@ -9,13 +9,13 @@
 [All case studies](../README.md) / [Product](https://codehorizon.in/products/nicked/) / [Trailer](https://youtu.be/oFikiJFPoco)
 
 **My role:** Independent Android product developer, covering game rules, Compose UI, persistence, and lifecycle behaviour.  
-**Stack:** Kotlin, Jetpack Compose, DataStore, SavedStateHandle. **Status:** In testing, with no public store release claimed. Application source remains private.
+**Stack:** Kotlin, Jetpack Compose, DataStore, SavedStateHandle. **Status:** In testing. Application source remains private.
 
 Nicked is a cricket guessing game with a daily puzzle, attribute clues, saved progress, and a timed Run Chase mode.
 
 <p align="center">
-  <img src="../assets/nicked-1.webp" alt="Nicked public product screenshot showing the daily cricket guessing interface" width="38%">
-  <img src="../assets/nicked-3.webp" alt="Nicked public product screenshot showing Run Chase rules and its timed game mode" width="38%">
+  <img src="../assets/nicked-1.webp" alt="Nicked public product screenshot showing the daily cricket guessing interface" width="280">
+  <img src="../assets/nicked-3.webp" alt="Nicked public product screenshot showing Run Chase rules and its timed game mode" width="280">
 </p>
 
 ## The problem I had to solve
