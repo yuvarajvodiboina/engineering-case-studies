@@ -12,11 +12,11 @@ These notes explain problems I encountered, the decisions I made, and how I chec
 
 ## Selected case studies
 
-| Project | The engineering problem | Status |
-| :--- | :--- | :--- |
-| **[ShopGrade](case-studies/shopgrade.md)** | A lost response must not turn an audit retry into another credit charge. | Released on the Chrome Web Store |
-| **[SecureVault](case-studies/securevault.md)** | File previews and failed imports need an explicit plaintext cleanup lifecycle. | Released on Google Play |
-| **[Nicked](case-studies/nicked.md)** | Daily answers and saved progress must remain consistent as the player dataset changes. | In testing |
+| Project | Engineering problem |
+| :--- | :--- |
+| **[ShopGrade](case-studies/shopgrade.md)**<br><sub>Chrome + web · Released</sub> | Recovering paid audit requests without charging again. |
+| **[SecureVault](case-studies/securevault.md)**<br><sub>Android · Released</sub> | Cleaning up readable previews and failed imports. |
+| **[Nicked](case-studies/nicked.md)**<br><sub>Android · In testing</sub> | Keeping daily answers and saved progress stable across updates. |
 
 Each page includes a small architecture diagram, product visuals, implementation decisions, tradeoffs, and the scope of the verification evidence. I distinguish checks run for these notes from tests reviewed in the projects.
 
